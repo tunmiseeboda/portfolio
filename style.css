@@ -310,11 +310,7 @@ span {
   text-align: center;
 }
 
-.content-title {
-  font-size: 2.5rem;
-  margin-bottom: 1.5rem;
-  color: var(--text-color);
-}
+
 
 .about-content h3 {
   margin-top: 2rem;
@@ -423,6 +419,13 @@ span {
 .education-content .content p {
   font-size: 1.6rem;
   padding-top: .5rem;
+}
+
+.content-title {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--text-color);
+  text-decoration: underline;
 }
 
 .skills {
