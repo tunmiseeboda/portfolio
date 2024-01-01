@@ -364,6 +364,13 @@ span {
   padding-left: 2rem;
 }
 
+.content-title {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
 .education-box .education-content::before {
   content: '';
   position: absolute;
@@ -421,12 +428,7 @@ span {
   padding-top: .5rem;
 }
 
-.content-title {
-  font-size: 2.5rem;
-  margin-bottom: 1.5rem;
-  color: var(--text-color);
-  text-decoration: underline;
-}
+
 
 .skills {
   min-height: auto;
